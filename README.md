@@ -1,7 +1,8 @@
 # Cisco_ACI_Commands
 Cisco ACI reference commands
 
-
+Fabric Policies --> Between Leaf and Spine, for eg, BGP
+Aceces  Policies --> For Leaf interfaces , towards end hosts
 # APIC Commands
 
 1. show fabric memberships
